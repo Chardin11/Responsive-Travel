@@ -4,3 +4,13 @@ Date:       6/30/2022
 File:       styles.css
 Assignment: Responsive Travel
 */
+
+html{font-family: sans-serif;}
+
+header{text-align: center; font-size: 2.0em; background-color: orange;}
+
+.japan2{height: 50%; width: 50%;}
+
+.japan1{height: 10%; width: 30%;}
+
+.japan3{height: 10%; width: 30%;}
