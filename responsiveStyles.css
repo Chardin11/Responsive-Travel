@@ -27,5 +27,8 @@
   }
 }
 @media screen and (min-width: 998px) {
-
+.sidebox{
+  display:block;
+  clear: both;
+  float: right;
 }
